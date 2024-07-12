@@ -1,0 +1,11 @@
+p{
+	color:blue;
+	font-style:italic; 
+	font-weight: bold;
+	text-align: right;
+	font-family: Courier;
+}
+
+body{
+	background-color:lightblue;
+}
